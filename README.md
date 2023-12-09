@@ -71,5 +71,5 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
 Link S3 Bucket: http://my-shop-app-jmcontro.s3-website.us-east-2.amazonaws.com/
-Link Cloudfront: https://d1t8dzcasmdh23.cloudfront.net
+Link Cloudfront: https://d398f6thmxkn0g.cloudfront.net/
 
