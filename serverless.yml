@@ -6,7 +6,6 @@ provider:
   name: aws
   runtime: nodejs14.x
   region: us-east-2
-  # setup profile for AWS CLI.
   profile: default
 
 plugins:
